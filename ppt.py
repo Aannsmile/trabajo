@@ -128,5 +128,10 @@ elif valormenu==3:
 elif valormenu==4:
     print(f"Hasta pronto {nick}!")
 
+elif valormenu==5 :
+    print("Este juego ha sido realizado por Meniyix.SL")
+    print("--------------------------------------------------------------------")
+    print("|♥ Directora, programadora, reina y señora del universo: Andreita ♥|")
+    print("--------------------------------------------------------------------")
 
     
