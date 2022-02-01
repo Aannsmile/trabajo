@@ -125,6 +125,8 @@ elif valormenu==3:
         elif maquina==5:
             print(f"La máquina y tu {nick} habeis empatado")
     
-    
+elif valormenu==4:
+    print(f"Hasta pronto {nick}!")
+
 
     
